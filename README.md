@@ -5,7 +5,7 @@ Valentina Galeano Castro - 2191692
 
 ## Introducción
 
-In numerical linear algebra, the Jacobi method is an iterative algorithm for determining the solutions of a strictly diagonally dominant system of linear equations. Each diagonal element is solved for, and an approximate value is plugged in. The process is then iterated until it converges. This algorithm is a stripped-down version of the Jacobi transformation method of matrix diagonalization.
+En álgebra lineal numérica, el método de Jacobi es un algoritmo iterativo para determinar las soluciones de un sistema de ecuaciones lineales estrictamente diagonalmente dominante. Se resuelve cada elemento diagonal y se ingresa un valor aproximado. Luego, el proceso se repite hasta que converge. Este algoritmo es una versión simplificada del método de transformación de Jacobi de diagonalización de matrices.
 
 ## Implementación
 
