@@ -10,7 +10,12 @@ En álgebra lineal numérica, el método de Jacobi es un algoritmo iterativo par
 ## Implementación
 
 1. Compilelo usando usando gcc y ejecutelo.
+![jacobicodec1](https://github.com/luis3132/HPC/assets/99009069/8574dd11-bb9d-47ae-9651-09d1900f0a84)
+
+  No se pudo medir el tiempo porque el tiempo de compilación fué 0 y al hacer la resta con 0 es igual.
 
 2. Use las opciones -01, -02 y -03 generando un ejecutable, por ejemplo de cada manera: suejecutable01.exe ¿Que observa en el comportamiento del código tanto al compilarlo como al ejecutar?
+3. 
+![nue](https://github.com/luis3132/HPC/assets/99009069/f0c809d6-c261-4c60-9b56-9d0bac60bf2c)
 
-3. ¿Que pasa si usa las opciones -O, -O0, -Ofast -Og y Oz?
+4. ¿Que pasa si usa las opciones -O, -O0, -Ofast -Og y Oz?
