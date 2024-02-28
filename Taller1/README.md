@@ -20,3 +20,12 @@ En álgebra lineal numérica, el método de Jacobi es un algoritmo iterativo par
 ![nue](https://github.com/luis3132/HPC/assets/99009069/f0c809d6-c261-4c60-9b56-9d0bac60bf2c)
 
 3. ¿Que pasa si usa las opciones -O, -O0, -Ofast -Og y Oz?
+
+`Aparentemente no contamos con los permisos para ejecutar esos comandos con guane, incluso al intentar con permisos de root.`
+
+![WhatsApp Image 2024-02-27 at 10 07 46 PM](https://github.com/luis3132/HPC/assets/99009069/9dfd6632-0244-401e-81af-f710d7d87691)
+![WhatsApp Image 2024-02-27 at 10 07 25 PM](https://github.com/luis3132/HPC/assets/99009069/cd235531-a681-40f4-ac5c-ab5725f0cda4)
+
+4. Busqué por internet un código de ejemplo simple que use punteros y repita los puntos del 1 al 3.
+
+  (El archivo fibonacci.c tiene el código que usa punteros) Aquí se reflejan los resultados.
